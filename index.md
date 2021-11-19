@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Docker
 
-You can use the [editor on GitHub](https://github.com/ChepeAicrag/Introduccion-a-Docker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Introducción](Docker%20ae0b6b7b9fab43679c23fbda951c698a/Introduccio%CC%81n%209ebcc010245e44748ef2359e2d9bf5ac.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Ejemplos de Uso](Docker%20ae0b6b7b9fab43679c23fbda951c698a/Ejemplos%20de%20Uso%2097832cc7355b47e6a8fb0d67bdc4aec5.md)
 
-### Markdown
+[Comandos](Docker%20ae0b6b7b9fab43679c23fbda951c698a/Comandos%2080db6292d9ae48c4a28451343391efb6.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Diapositivas del taller](https://www.canva.com/design/DAEdRLOlww4/BUGcFIa2M-pQoVt6PEJT5g/view?utm_content=DAEdRLOlww4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-```markdown
-Syntax highlighted code block
+# Get started
 
-# Header 1
-## Header 2
-### Header 3
+[https://www.docker.com/101-tutorial](https://www.docker.com/101-tutorial)
 
-- Bulleted
-- List
+# Referencias
 
-1. Numbered
-2. List
+[Container vs Virtual Machine | Docker vs Virtual Machine | Docker vs VM](https://k21academy.com/docker-kubernetes/docker-vs-virtual-machine/)
 
-**Bold** and _Italic_ and `Code` text
+[Una guía no tan rápida de Docker y Kubernetes](https://medium.com/ingenier%C3%ADa-en-tranqui-finanzas/una-gu%C3%ADa-no-tan-r%C3%A1pida-de-docker-y-kubernetes-933f5b6709df)
 
-[Link](url) and ![Image](src)
-```
+[Máquinas Virtuales vs. Contenedores Docker: ¿Cuál es la diferencia en su rendimiento | Lanner](https://www.lanner-america.com/es/blog-es/maquinas-virtuales-vs-contenedores-docker-cual-es-la-diferencia-en-su-rendimiento/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Glossary](https://docs.docker.com/glossary/)
 
-### Jekyll Themes
+[Entendiendo Docker. Conceptos básicos: Imágenes, Contenedores, Links... - Javier Garzas](https://www.javiergarzas.com/2015/07/entendiendo-docker.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChepeAicrag/Introduccion-a-Docker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Docker overview](https://docs.docker.com/get-started/overview/)
 
-### Support or Contact
+[Gestionar los datos de tus contenedores de Docker - return(GiS);](https://www.returngis.net/2019/02/gestionar-los-datos-de-tus-contenedores-de-docker/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Ejecutar aplicaciones multi-contenedor con docker-compose - return(GiS);](https://www.returngis.net/2019/02/ejecutar-aplicaciones-multi-contenedor-con-docker-compose/)
+
+[Cómo utilizar bind mounts en Docker sobre Ubuntu 20.04 - Guías Cloud by Donweb](https://guias.donweb.cloud/como-utilizar-bind-mounts-en-docker-sobre-ubuntu-20-04/)
+
+[Use tmpfs mounts](https://docs.docker.com/storage/tmpfs/)
+
+[https://www.returngis.net/2019/02/ejecutar-aplicaciones-multi-contenedor-con-docker-compose/](https://www.returngis.net/2019/02/ejecutar-aplicaciones-multi-contenedor-con-docker-compose/)
+
