@@ -6,6 +6,8 @@
 
 [Comandos](Docker%20ae0b6b7b9fab43679c23fbda951c698a/Comandos%2080db6292d9ae48c4a28451343391efb6.md)
 
+[Diapositivas del taller](https://www.canva.com/design/DAEdRLOlww4/BUGcFIa2M-pQoVt6PEJT5g/view?utm_content=DAEdRLOlww4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 # Get started
 
 [https://www.docker.com/101-tutorial](https://www.docker.com/101-tutorial)
