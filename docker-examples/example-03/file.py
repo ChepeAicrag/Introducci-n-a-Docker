@@ -1,0 +1,1 @@
+print("Soy un archivo de un bind mount")
